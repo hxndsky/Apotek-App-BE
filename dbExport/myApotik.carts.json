@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "666bc60be9725a44b3a42583"
+  },
+  "user": {
+    "$oid": "666bc5c5e9725a44b3a4257f"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "666bbd618a7c05d7a5fb58d6"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "666bc60be9725a44b3a42584"
+      }
+    }
+  ],
+  "__v": 0
+}]

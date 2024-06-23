@@ -1,0 +1,59 @@
+[{
+  "_id": {
+    "$oid": "666bc4bce9725a44b3a42575"
+  },
+  "user": {
+    "$oid": "666bb0a70e323c0f609ed444"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "666bbc768a7c05d7a5fb58d4"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "666bc302e9725a44b3a4256a"
+      }
+    }
+  ],
+  "total": 690000,
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2024-06-14T04:19:08.666Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666bc692e9725a44b3a425a1"
+  },
+  "user": {
+    "$oid": "666bb0a70e323c0f609ed444"
+  },
+  "items": [
+    {
+      "product": {
+        "$oid": "666bbecc8a7c05d7a5fb58d9"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "666bc629e9725a44b3a42588"
+      }
+    },
+    {
+      "product": {
+        "$oid": "666bbd618a7c05d7a5fb58d6"
+      },
+      "quantity": 2,
+      "_id": {
+        "$oid": "666bc65be9725a44b3a4258f"
+      }
+    }
+  ],
+  "total": 420400,
+  "status": "Pending",
+  "createdAt": {
+    "$date": "2024-06-14T04:26:58.857Z"
+  },
+  "__v": 0
+}]

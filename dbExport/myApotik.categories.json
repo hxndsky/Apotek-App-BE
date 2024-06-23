@@ -1,0 +1,135 @@
+[{
+  "_id": {
+    "$oid": "6672d8bcd7875c91631ba9ee"
+  },
+  "id_category": "BTK",
+  "name_category": "Obat Batuk",
+  "icon": "💊",
+  "createdAt": {
+    "$date": "2024-06-19T13:10:20.201Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-19T13:21:47.126Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672d8cbd7875c91631ba9f1"
+  },
+  "id_category": "SPL",
+  "name_category": "Suplemen",
+  "icon": "💊",
+  "createdAt": {
+    "$date": "2024-06-19T13:10:35.366Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-19T13:10:35.366Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672d8d5d7875c91631ba9f4"
+  },
+  "id_category": "NTR",
+  "name_category": "Nutrisi",
+  "icon": "🌱",
+  "createdAt": {
+    "$date": "2024-06-19T13:10:45.418Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-19T13:10:45.418Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672d8e1d7875c91631ba9f7"
+  },
+  "id_category": "PBY",
+  "name_category": "Produk Bayi",
+  "icon": "👶",
+  "createdAt": {
+    "$date": "2024-06-19T13:10:57.589Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-19T13:10:57.589Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672d8ecd7875c91631ba9fa"
+  },
+  "id_category": "BTY",
+  "name_category": "Kecantikan",
+  "icon": "💅",
+  "createdAt": {
+    "$date": "2024-06-19T13:11:08.432Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-19T13:11:08.432Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672d8f9d7875c91631ba9fd"
+  },
+  "id_category": "VTC",
+  "name_category": "Vitamin C",
+  "icon": "🍊",
+  "createdAt": {
+    "$date": "2024-06-19T13:11:21.892Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-19T13:11:21.892Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672d902d7875c91631baa00"
+  },
+  "id_category": "DMM",
+  "name_category": "Obat Demam",
+  "icon": "🌡️",
+  "createdAt": {
+    "$date": "2024-06-19T13:11:30.306Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-19T13:11:30.306Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672d90bd7875c91631baa03"
+  },
+  "id_category": "VTA",
+  "name_category": "Vitamin Anak",
+  "icon": "🧸",
+  "createdAt": {
+    "$date": "2024-06-19T13:11:39.460Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-19T13:11:39.460Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672d917d7875c91631baa06"
+  },
+  "id_category": "OBK",
+  "name_category": "Obat Kulit",
+  "icon": "🌿",
+  "createdAt": {
+    "$date": "2024-06-19T13:11:51.988Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-19T13:11:51.988Z"
+  },
+  "__v": 0
+}]

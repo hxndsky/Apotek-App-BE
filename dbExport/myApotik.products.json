@@ -1,0 +1,312 @@
+[{
+  "_id": {
+    "$oid": "666bbc768a7c05d7a5fb58d4"
+  },
+  "productName": "ACTONEL 35 MG BOX 4 TABLET",
+  "id_category": "BTK",
+  "desc": "PENGGUNAAN OBAT INI HARUS SESUAI PETUNJUK DOKTER. Actonel digunakan untuk terapi dan preventif terhadap osteoporosis pada wanita pasca menopause dan glukokortikoid yang menyebabkan osteoporosis pada pria dan wanita.",
+  "indication": "Digunakan untuk terapi dan preventif terhadap osteoporosis",
+  "composition": "Tiap tablet mengandung Risedronate Na 35 mg",
+  "dose": "ATURAN PAKAI HARUS SESUAI DENGAN PETUNJUK DOKTER. 35 mg 1 kali seminggu",
+  "howtouse": "Berikan dengan segelas air sekurang-kurangnya 30 menit sebelum konsumsi makanan/minuman/obat pertama kali pada hari yang sama dan tetap dalam posisi duduk/tegak selama sekurang-kurangnya 30 menit. Telan utuh, jangan dikunyah atau dihancurkan",
+  "effect": "Infeksi, nyeri punggung, artralgia, nyeri perut, mual",
+  "group": "Obat Keras",
+  "nie": "DKI2153900417A1",
+  "price": 690000,
+  "createdAt": {
+    "$date": "2024-06-14T03:43:50.689Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-18T03:29:54.807Z"
+  },
+  "__v": 0,
+  "image": "/uploads/1718681394796-66dd8341-d895-455e-9d24-f13fa7db2ae3.jpg"
+},
+{
+  "_id": {
+    "$oid": "666bbecc8a7c05d7a5fb58d9"
+  },
+  "productName": "L-BIO SERBUK SACHET 1 GRAM",
+  "id_category": "SPL",
+  "image": "/uploads/1718681347513-lbio.jpeg",
+  "desc": "L-Bio dapat Digunakan untuk memelihara kesehatan fungsi pencernaan pada anak dan dewasa. Untuk membantu mengembalikan fungsi normal pencernaan selama diare, sembelit, dispepsia, dan intoleransi laktosa. Untuk membantu keseimbangan flora normal selama mengonsumsi antibiotika. Untuk membantu mengembalikan fungsi normal pencernaan pada pasien yang mengalami kemoterapi, tukak peptik. Untuk membantu fungsi fermentasi usus pada bayi.",
+  "indication": "Digunakan untuk memelihara kesehatan fungsi pencernaan pada anak dan dewasa. Untuk membantu mengembalikan fungsi normal pencernaan selama diare, sembelit, dispepsia, dan intoleransi laktosa. Untuk membantu keseimbangan flora normal selama mengonsumsi antibiotika. Untuk membantu mengembalikan fungsi normal pencernaan pada pasien yang mengalami kemoterapi, tukak peptik. Untuk membantu fungsi fermentasi usus pada bayi.",
+  "composition": "Tiap sachet mengandung rice starch, maltodextrin, Lactobacillus acidophilus, Lactobacillus casei, Lactobacillus salivarius, Bifidobacterium infantis, Bifidobacterium lactis, Bifidobacterium longum, Lactococcus lactis.",
+  "dose": "Usia ?12 tahun : 3 sachet 1 kali perhari. Usia ?2 tahun : 2-3 sachet 1 kali perhari",
+  "howtouse": "Diberikan sesuai dengan petunjuk dosis penggunaan, leaflet/brosur, dokter atau apoteker",
+  "effect": "-",
+  "group": "Suplemen & Vitamin",
+  "nie": "SI074225431",
+  "price": 9400,
+  "createdAt": {
+    "$date": "2024-06-14T03:53:48.967Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-18T03:29:07.522Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666e854991d8cb81c180ec88"
+  },
+  "productName": "JOINTACE BOX 30 TABLET",
+  "id_category": "SPL",
+  "desc": "Digunakan untuk memelihara kesehatan kartilago (tulang rawan) dan sendi.",
+  "indication": "Digunakan untuk memelihara kesehatan kartilago (tulang rawan) dan sendi.",
+  "composition": "Tiap kaplet mengandung glucosamine sulfate 750 mg, MSM 200 mg, manganese 3 mg, Zink 3 mg, copper 0.5 mg, boron 0.5 mg, vitamin C 50 mg, vitamin D3 200 IU",
+  "dose": "Terapi awal : (sekurang-kurangnya selama 60 hari pertama terapi) 2 tablet perhari sebagai dosis tunggal atau terbagi dalam 2 dosis. Terapi pemeliharaan : (?60 hari jika tercapai perbaikan) 1 tablet perhari, dapat ditingkatkan hingga 2 tablet perhari",
+  "howtouse": "Diberikan sesuai dengan petunjuk dosis penggunaan, leaflet/brosur, dokter atau apoteker",
+  "effect": "-",
+  "group": "Suplemen & Vitamin",
+  "nie": "SL151500891",
+  "price": 205500,
+  "createdAt": {
+    "$date": "2024-06-16T06:25:13.238Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-18T03:30:32.377Z"
+  },
+  "__v": 0,
+  "image": "/uploads/1718681432363-7294611_455b9469-bfef-4353-8b0a-f5172d92abc7.jpeg"
+},
+{
+  "_id": {
+    "$oid": "6670691d94fb4dd747441352"
+  },
+  "productName": "SKIN RELIEF CREAM",
+  "id_category": "OBK",
+  "desc": "Krim untuk mengatasi iritasi dan gatal pada kulit.",
+  "indication": "Digunakan untuk mengatasi iritasi kulit, ruam, dan gatal-gatal.",
+  "composition": "Mengandung hydrocortisone 1%, aloe vera, vitamin E",
+  "dose": "Oleskan tipis-tipis pada area kulit yang teriritasi, 2-3 kali sehari.",
+  "howtouse": "Dibubuhkan pada area yang teriritasi, hindari kontak dengan mata.",
+  "effect": "Dapat menyebabkan kulit kering atau iritasi ringan pada penggunaan awal.",
+  "group": "Obat Kulit",
+  "nie": "OBK20240617",
+  "price": 50000,
+  "createdAt": {
+    "$date": "2024-06-17T16:49:33.657Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-18T03:34:18.361Z"
+  },
+  "__v": 0,
+  "image": "/uploads/1718681658283-7b263f27-1915-4d2e-8072-b2fa90e7d5f7-.png"
+},
+{
+  "_id": {
+    "$oid": "6670692d94fb4dd747441354"
+  },
+  "productName": "KID'S VITAMIN GUMMY",
+  "id_category": "VTA",
+  "desc": "Vitamin gummy untuk mendukung pertumbuhan dan kesehatan anak.",
+  "indication": "Digunakan untuk membantu memenuhi kebutuhan vitamin harian anak.",
+  "composition": "Mengandung vitamin A, B, C, D, E, serta kalsium dan zink",
+  "dose": "2 gummy per hari, dikonsumsi setelah makan.",
+  "howtouse": "Dikonsumsi sesuai dengan dosis yang dianjurkan, setelah makan.",
+  "effect": "Aman digunakan, jarang terjadi efek samping.",
+  "group": "Suplemen & Vitamin",
+  "nie": "VTA20240617",
+  "price": 60000,
+  "createdAt": {
+    "$date": "2024-06-17T16:49:49.163Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-18T03:35:14.093Z"
+  },
+  "__v": 0,
+  "image": "/uploads/1718681714083-kids (1).jpeg"
+},
+{
+  "_id": {
+    "$oid": "6670694294fb4dd747441358"
+  },
+  "productName": "FEVER-RELIEF TABLET",
+  "id_category": "DMM",
+  "desc": "Tablet untuk meredakan demam dan nyeri.",
+  "indication": "Digunakan untuk meredakan demam dan nyeri ringan hingga sedang.",
+  "composition": "Tiap tablet mengandung paracetamol 500 mg",
+  "dose": "Dewasa: 1-2 tablet setiap 4-6 jam, maksimal 8 tablet per hari. Anak-anak: Sesuai petunjuk dokter.",
+  "howtouse": "Dikonsumsi sesuai dosis yang dianjurkan, dapat dikonsumsi dengan atau tanpa makanan.",
+  "effect": "Dapat menyebabkan mual, reaksi alergi pada beberapa orang.",
+  "group": "Obat Demam",
+  "nie": "DMM20240617",
+  "price": 30000,
+  "createdAt": {
+    "$date": "2024-06-17T16:50:10.860Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-18T03:37:34.495Z"
+  },
+  "__v": 0,
+  "image": "/uploads/1718681854475-fever-relief-tablets.jpeg"
+},
+{
+  "_id": {
+    "$oid": "6670694c94fb4dd74744135a"
+  },
+  "productName": "VITAMIN C 1000 MG TABLET",
+  "id_category": "VTC",
+  "desc": "Suplemen vitamin C untuk meningkatkan daya tahan tubuh.",
+  "indication": "Digunakan untuk membantu menjaga daya tahan tubuh dan kesehatan kulit.",
+  "composition": "Tiap tablet mengandung vitamin C 1000 mg",
+  "dose": "1 tablet per hari setelah makan.",
+  "howtouse": "Dikonsumsi sesuai dengan dosis yang dianjurkan, setelah makan.",
+  "effect": "Dapat menyebabkan iritasi lambung jika dikonsumsi dalam keadaan perut kosong.",
+  "group": "Suplemen & Vitamin",
+  "nie": "VTC20240617",
+  "price": 75000,
+  "createdAt": {
+    "$date": "2024-06-17T16:50:20.472Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-18T03:38:16.220Z"
+  },
+  "__v": 0,
+  "image": "/uploads/1718681896196-p.jpg"
+},
+{
+  "_id": {
+    "$oid": "6670695194fb4dd74744135c"
+  },
+  "productName": "SKIN GLOW SERUM",
+  "id_category": "BTY",
+  "desc": "Serum untuk mencerahkan kulit dan mengurangi noda hitam.",
+  "indication": "Digunakan untuk mencerahkan kulit dan mengurangi tanda-tanda penuaan.",
+  "composition": "Mengandung vitamin C 10%, hyaluronic acid, niacinamide, ekstrak teh hijau",
+  "dose": "Gunakan 2-3 tetes pada wajah yang telah dibersihkan, pagi dan malam hari.",
+  "howtouse": "Oleskan serum pada wajah yang telah dibersihkan, hindari area mata.",
+  "effect": "Kulit dapat terasa sedikit kering pada awal penggunaan.",
+  "group": "Kecantikan",
+  "nie": "BTY20240617",
+  "price": 150000,
+  "createdAt": {
+    "$date": "2024-06-17T16:50:25.224Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-18T03:38:59.635Z"
+  },
+  "__v": 0,
+  "image": "/uploads/1718681939616-97c72387-45b3-4e7b-9060-e679a2abc5d4.jpg"
+},
+{
+  "_id": {
+    "$oid": "6670695594fb4dd74744135e"
+  },
+  "productName": "BABY CALMING LOTION",
+  "id_category": "PBY",
+  "desc": "Lotion untuk menenangkan kulit bayi dan mengurangi iritasi.",
+  "indication": "Digunakan untuk melembabkan dan menenangkan kulit bayi yang kering atau iritasi.",
+  "composition": "Mengandung chamomile extract, aloe vera, vitamin E, glycerin",
+  "dose": "Oleskan secukupnya pada kulit bayi setelah mandi atau sesuai kebutuhan.",
+  "howtouse": "Dibubuhkan pada kulit bayi dengan lembut setelah mandi atau saat diperlukan.",
+  "effect": "Aman digunakan, jarang terjadi efek samping.",
+  "group": "Produk Bayi",
+  "nie": "PBY20240617",
+  "price": 45000,
+  "createdAt": {
+    "$date": "2024-06-17T16:50:29.676Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-18T03:39:42.532Z"
+  },
+  "__v": 0,
+  "image": "/uploads/1718681982523-7bda5474-da45-4ad0-9924-0648a230fb14.jpg"
+},
+{
+  "_id": {
+    "$oid": "6670695f94fb4dd747441360"
+  },
+  "productName": "NUTRI-BOOST POWDER",
+  "id_category": "NTR",
+  "desc": "Suplemen nutrisi lengkap untuk mendukung kesehatan tubuh.",
+  "indication": "Digunakan sebagai tambahan nutrisi harian.",
+  "composition": "Tiap sajian mengandung protein 10 g, karbohidrat 20 g, vitamin A 500 IU, vitamin B1 1 mg, vitamin B2 1 mg, vitamin D3 200 IU, zat besi 5 mg, kalsium 200 mg",
+  "dose": "1-2 sendok takar per hari, dicampur dengan 200 ml air atau susu.",
+  "howtouse": "Dikonsumsi sesuai dengan petunjuk penggunaan yang tertera pada kemasan atau anjuran dokter.",
+  "effect": "Tidak ada efek samping yang signifikan jika digunakan sesuai dosis.",
+  "group": "Nutrisi",
+  "nie": "NTR20240617",
+  "price": 85000,
+  "createdAt": {
+    "$date": "2024-06-17T16:50:39.078Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-18T03:40:16.414Z"
+  },
+  "__v": 0,
+  "image": "/uploads/1718682016391-product-jpeg.jpg"
+},
+{
+  "_id": {
+    "$oid": "6670696b94fb4dd747441364"
+  },
+  "productName": "COUGH-RELIEF SYRUP",
+  "id_category": "BTK",
+  "desc": "Sirup untuk meredakan batuk dan melegakan tenggorokan.",
+  "indication": "Digunakan untuk meredakan batuk kering dan batuk berdahak.",
+  "composition": "Setiap 5 ml mengandung guaifenesin 100 mg, dextromethorphan 15 mg, menthol 2.5 mg",
+  "dose": "Dewasa dan anak >12 tahun: 10 ml setiap 4 jam sesuai kebutuhan. Anak-anak (6-12 tahun): 5 ml setiap 4 jam sesuai kebutuhan.",
+  "howtouse": "Dikonsumsi sesuai dosis yang dianjurkan, dapat diberikan dengan atau tanpa makanan.",
+  "effect": "Dapat menyebabkan kantuk, mual, dan pusing.",
+  "group": "Obat Batuk",
+  "nie": "BTK20240617",
+  "price": 35000,
+  "createdAt": {
+    "$date": "2024-06-17T16:50:51.037Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-18T03:40:52.315Z"
+  },
+  "__v": 0,
+  "image": "/uploads/1718682052305-e0f8f836-c3e2-494c-97f3-34afa5b59b53.jpg"
+},
+{
+  "_id": {
+    "$oid": "6670fcc70ee6aca1bcf70fba"
+  },
+  "productName": "TOLAK ANGIN",
+  "id_category": "SPL",
+  "image": "/uploads/1718680775044-produk-tolak-angin.png",
+  "desc": "",
+  "indication": "Masuk Angin",
+  "composition": "Jahe, Madu",
+  "dose": "1x Sehari",
+  "howtouse": "Minum",
+  "effect": "Ngantuk",
+  "group": "Obat Ringan",
+  "nie": "SKL92213782",
+  "price": 5000,
+  "createdAt": {
+    "$date": "2024-06-18T03:19:35.159Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-18T03:31:15.924Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672cc8a740356a47b86d662"
+  },
+  "productName": "IMBOOST",
+  "id_category": "SPL",
+  "image": "/uploads/1718799497935-imbost.jpg",
+  "desc": "APA AJA KEK",
+  "indication": "-",
+  "composition": "Vitamin C",
+  "dose": "1x sehari",
+  "howtouse": "DIMINUM",
+  "effect": "ISD",
+  "group": "",
+  "nie": "SPL20240619",
+  "price": 40000,
+  "createdAt": {
+    "$date": "2024-06-19T12:18:18.197Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-19T12:18:18.197Z"
+  },
+  "__v": 0
+}]
