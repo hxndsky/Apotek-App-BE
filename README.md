@@ -11,7 +11,7 @@ npm start
 
 ## Routes
 
-| ACTION | API | METHOD | AUTHH |
+| ACTION | API | METHOD | AUTH |
 | ------ | ------ | ------ | ------ |
 | LOGIN | localhost:5000/users/login | POST | NO |
 | REGISTER | localhost:5000/users/register | POST | NO |
