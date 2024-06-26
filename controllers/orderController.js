@@ -83,7 +83,7 @@ export const checkoutCart = async (req, res) => {
 
         // Generate WhatsApp payment link/message
         const whatsappMessage = `Permisi kak, Saya ingin membeli barang:\n\n${cart.items.map(item => `${item.quantity} x ${item.product.productName}`).join('\n')}\n\nTotal: Rp ${total}. Mohon konfirmasi pesanan saya.`;
-        const whatsappLink = `https://wa.me/6285156252811?text=${encodeURIComponent(whatsappMessage)}`;
+        const whatsappLink = `https://wa.me/6281228040611?text=${encodeURIComponent(whatsappMessage)}`;
 
         const order = new Order({
             user: userId,
