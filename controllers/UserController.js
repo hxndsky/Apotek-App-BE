@@ -148,6 +148,23 @@ export const updateRole = async (req, res) => {
     }
   };
 
+  export const deleteUser = async (req, res) => {
+    const { id } = req.params;
+
+    try {
+        const user = await User.findById(id);
+
+        if (!user) {
+            return res.status(404).json({ msg: 'User not found' });
+        }
+
+        await User.findByIdAndDelete(id);
+        res.status(200).json({ msg: 'User deleted successfully' });
+    } catch (err) {
+        console.error(err.message);
+        res.status(500).send('Server error');
+    }
+};
   
   export const forgotPassword = async (req, res) => {
     const { email } = req.body;

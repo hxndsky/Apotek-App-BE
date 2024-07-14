@@ -1,6 +1,6 @@
 // src/routes/UserRoutes.js
 import express from 'express';
-import { register, login, getUsers, getAllUsers, updateUser, logout, updateRole, forgotPassword, resetPassword } from '../controllers/UserController.js';
+import { register, login, getUsers, getAllUsers, updateUser, logout, updateRole, forgotPassword, resetPassword, deleteUser } from '../controllers/UserController.js';
 import { adminMiddleware, authMiddleware, superAdminMiddleware } from '../middleware/UserMiddleware.js';
 
 const router = express.Router();
@@ -13,6 +13,7 @@ router.get('/logout', authMiddleware, logout);
 router.get('/me', authMiddleware, getUsers);
 router.get('/all', authMiddleware, superAdminMiddleware, getAllUsers);
 router.put('/updateUser', authMiddleware, updateUser);
+router.delete('/:id', authMiddleware, superAdminMiddleware, deleteUser);
 router.put('/updateRole', authMiddleware, superAdminMiddleware, updateRole);
 
 export default router;
