@@ -1,13 +1,16 @@
 # Aplikasi Backend Apotik
 Aplikasi Backend Menggunakan Express JS Untuk Membuat RESTAPI apotikApps.
 
+## Step
+1. Copy isi file `example.env`Lalu buat dan paste isi nya ke dalam file `.env`
+2. Buka MongoDB Compass -> New Connection -> ganti isi URI menjadi `mongodb://localhost:27017/myApotik` -> Connect
+
 ## Installation
 ```sh
 npm install
 npm install -g nodemon
 npm start
 ```
-> Copy isi file `.env.example`Lalu buat dan paste isi nya ke dalam file `.env` 
 
 ## Routes
 
