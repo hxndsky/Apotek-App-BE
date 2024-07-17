@@ -13,18 +13,20 @@ import orderRoutes from './routes/OrderRoutes.js';
 dotenv.config();
 
 const app = express();
-const PORT = process.env.PORT;
+const PORT = process.env.PORT || 5000;
 
 app.use(bodyParser.json());
 app.use(cors());
 
 // Test Build
 app.get('/', (req, res) => {
-  res.send("Welcome To MyApotik!");
-})
+  res.send("Welcome To Pharmora!");
+});
+
+// Serve static files from the public directory
+app.use('/uploads', express.static('uploads'));
 
 // Routes
-app.use('/uploads', express.static('uploads'));
 app.use('/users', userRoutes);
 app.use('/products', productRoutes);
 app.use('/category', categoryRoutes);
